@@ -1,2 +1,3 @@
 Here, we use a public license rule.
 The name is MIT license.
+Test stash
